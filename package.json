@@ -1,0 +1,23 @@
+{
+  "name": "newrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriyGl86/newRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriyGl86/newRepo/issues"
+  },
+  "homepage": "https://github.com/YuriyGl86/newRepo#readme",
+  "dependencies": {
+    "@yuriygl86/ajs": "^1.0.0"
+  }
+}
